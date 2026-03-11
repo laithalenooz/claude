@@ -1,0 +1,6 @@
+{
+  "name": "awesome-skills",
+  "version": "1.0.0",
+  "description": "Curated backend/fullstack/devops/architecture skills",
+  "skills": "./skills"
+}

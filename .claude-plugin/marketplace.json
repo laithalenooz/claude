@@ -1,0 +1,17 @@
+{
+  "name": "claude-hub",
+  "owner": {
+    "name": "Laith Alenooz"
+  },
+  "plugins": [
+    {
+      "name": "awesome-skills",
+      "source": {
+        "source": "git-subdir",
+        "path": "claude-plugins/awesome-skills"
+      },
+      "version": "1.0.0",
+      "description": "Curated backend/fullstack/devops/architecture skills from antigravity-awesome-skills"
+    }
+  ]
+}
